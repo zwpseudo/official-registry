@@ -5,11 +5,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/doom",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "DOOM is a classic first-person shooter game developed by id Software."
   },
@@ -19,11 +15,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/discord",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Discord is a VoIP, instant messaging, and digital distribution platform designed for creating communities."
   },
@@ -33,11 +25,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/parsec",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Parsec is a proprietary desktop capture application primarily used for gaming. It allows users to stream and play games remotely."
   },
@@ -47,11 +35,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/core",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Ubuntu core image."
   },
@@ -61,9 +45,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/ubuntu-jammy-deluxe",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "develop"
+      "latest"
     ],
     "description": "Ubuntu Jammy Deluxe contains a collection of popular software applications and tools for developers and enthusiasts."
   },
@@ -73,9 +55,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/ubuntu-noble-deluxe",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "develop"
+      "latest"
     ],
     "description": "Ubuntu noble Deluxe contains a collection of popular software applications and tools for developers and enthusiasts."
   },
@@ -85,11 +65,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/steam",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Steam is a digital distribution platform developed by Valve Corporation, offering digital rights management, multiplayer gaming, video streaming, and social networking services."
   },
@@ -99,11 +75,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/super-tux-kart",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "SuperTuxKart is a free and open-source kart racing game, distributed under the terms of the GNU General Public License."
   },
@@ -113,11 +85,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/blender",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Blender is a free and open-source 3D computer graphics software toolset."
   },
@@ -127,11 +95,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/edge",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Microsoft Edge is a cross-platform web browser developed by Microsoft."
   },
@@ -141,11 +105,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/brave",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Brave is a free and open-source web browser developed by Brave Software, Inc."
   },
@@ -155,11 +115,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/audacity",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Audacity is a free and open-source digital audio editor and recording application software."
   },
@@ -169,11 +125,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/filezilla",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "FileZilla is a free and open-source, cross-platform FTP application software."
   },
@@ -183,11 +135,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/deluge",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Deluge is a free and open-source, cross-platform BitTorrent client software."
   },
@@ -197,11 +145,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/minetest",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Minetest is a free and open-source voxel game engine and game."
   },
@@ -211,11 +155,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/chrome",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Google Chrome is a cross-platform web browser developed by Google."
   },
@@ -225,11 +165,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/chromium",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Chromium is a free and open-source web browser developed by The Chromium Project."
   },
@@ -239,11 +175,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/firefox",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "0.1.0",
-      "develop"
+      "latest"
     ],
     "description": "Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation."
   },
@@ -253,10 +185,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/thunderbird",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Mozilla Thunderbird is a free and open-source cross-platform email client, news client, RSS, and chat client developed by the Mozilla Foundation."
   },
@@ -266,10 +195,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/inkscape",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Inkscape is a free and open-source vector graphics editor."
   },
@@ -279,10 +205,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/gimp",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "GIMP is a free and open-source raster graphics editor."
   },
@@ -292,10 +215,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/vlc",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "VLC media player is a free and open-source portable cross-platform media player software."
   },
@@ -305,10 +225,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/hunchly",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Hunchly is a web archiving tool that captures and stores web pages as you browse."
   },
@@ -318,10 +235,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/libre-office",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "LibreOffice is a free and open-source office suite."
   },
@@ -331,10 +245,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/maltego",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Maltego is an open-source intelligence and forensics application."
   },
@@ -344,10 +255,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/only-office",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "OnlyOffice is an open-source office suite and productivity suite."
   },
@@ -357,10 +265,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/pinta",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Pinta is a free, open-source bitmap image drawing and editing program."
   },
@@ -370,10 +275,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/postman",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Postman is a collaboration platform for API development."
   },
@@ -383,10 +285,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/qbittorrent",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "qBittorrent is a free and open-source BitTorrent client."
   },
@@ -396,10 +295,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/remmina",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Remmina is a remote desktop client written in GTK."
   },
@@ -409,10 +305,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/retroarch",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "RetroArch is a free, open-source and cross-platform front-end for emulators, game engines, video games, media players and other applications."
   },
@@ -422,10 +315,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/signal",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Signal is a cross-platform encrypted messaging service."
   },
@@ -435,10 +325,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/slack",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Slack is a proprietary business communication platform."
   },
@@ -448,10 +335,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/sublime-text",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Sublime Text is a shareware cross-platform source code editor."
   },
@@ -461,10 +345,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/terminal",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Terminal is a terminal emulator for Unix-like operating systems."
   },
@@ -474,10 +355,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/tor-browser",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Tor Browser is a free and open-source web browser for enabling anonymous communication."
   },
@@ -487,10 +365,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/vivaldi",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Vivaldi is a freeware, cross-platform web browser developed by Vivaldi Technologies."
   },
@@ -500,10 +375,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/vs-code",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Visual Studio Code is a free source-code editor made by Microsoft."
   },
@@ -513,10 +385,7 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/zoom",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Zoom is a proprietary video teleconferencing software program."
   },
@@ -526,12 +395,9 @@
     "container_docker_registry": "https://ghcr.io/",
     "container_docker_image": "zwpseudo/wine",
     "container_docker_tags": [
-      "0.4.0",
-      "0.3.0",
-      "0.2.0",
-      "develop"
+      "latest"
     ],
     "description": "Terminal is a terminal emulator for Unix-like operating systems."
-  },
+  }
 
 ]
